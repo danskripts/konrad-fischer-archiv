@@ -13,3 +13,4 @@
 
 # Ignoriere eine spezifische Datei
 docsify.html
+.gitignore
