@@ -94,11 +94,3 @@ Bei berechtigten Einwänden einzelner Inhalte bitte ein Issue eröffnen.
 
 Bei technischen Fragen oder Hinweisen:
 → GitHub Issue eröffnen
-# konrad-fischer-archiv
-# konrad-fischer-archiv
-# konrad-fischer-archiv
-# konrad-fischer-archiv
-# konrad-fischer-archiv
-# konrad-fischer-archiv
-# konrad-fischer-archiv
-# konrad-fischer-archiv
